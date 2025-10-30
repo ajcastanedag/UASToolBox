@@ -5,7 +5,7 @@ pacman::p_load(shiny, shinyFiles, shinybusy, leaflet, leaflet.extras, exifr, sf,
 ################################################################################
 # UI 
 ui <- fluidPage(
-  titlePanel("EORC-UAS Image Preselector"),
+  titlePanel("Image Preselector"),
   add_busy_bar(color = "#FF0000"),
   sidebarLayout(
     sidebarPanel(
