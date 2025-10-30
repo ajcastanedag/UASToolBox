@@ -9,14 +9,14 @@ A collection of R Shiny applications for UAS (Unmanned Aerial System) data proce
 ### Image Preselector
 Filter and select geotagged UAS images based on spatial, temporal, and altitude criteria.
 
-### Thermal Calibration
+### Thermal Calibration (pending to be uploaded)
 Calibrate thermal imagery and convert raw data to temperature values.
 
-### Flight Planner
+### Flight Planner (pending to be uploaded)
 Plan and optimize UAS flight missions with waypoint generation.
 
-### DJI Flight logs phraser
+### DJI Flight logs phraser (pending to be uploaded)
 Convert your DJI flight logs in a visual or CSV format for further analysis.
 
-### Smart AGL transects
+### Smart AGL transects (pending to be uploaded)
 Plan and optimize UAS flight transect missions using smartAGL and UgCS.
